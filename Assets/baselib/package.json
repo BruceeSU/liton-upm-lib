@@ -1,0 +1,12 @@
+{
+  "name": "baselib",
+  "displayName":"Liton Base Lib"
+  "version": "1.0.0",
+  "description": "unity开发基础库",
+  "keywords": [
+	"baselib"
+  ],
+  "author": "BruceeSu",
+  "license": "MIT",
+  "dependencies":{}
+}
